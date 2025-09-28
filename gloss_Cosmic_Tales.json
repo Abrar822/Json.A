@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "term": "Solar Flare",
+      "definition": "A solar flare is a sudden and powerful burst of light and energy from the Sun’s surface. It releases radiation that can travel to Earth and affect satellites, communications, and even power systems."
+    },
+    {
+      "term": "Coronal Mass Ejection (CME)",
+      "definition": "A CME is a huge cloud of charged particles and magnetic fields ejected from the Sun’s outer layer, the corona. When it reaches Earth, it can disturb the magnetic field and cause auroras or affect satellites and power grids."
+    },
+    {
+      "term": "Solar Wind",
+      "definition": "Solar wind is a constant stream of charged particles, mostly electrons and protons, flowing from the Sun into space. It interacts with Earth’s magnetic field and can produce auroras and minor disruptions in satellites and communication."
+    },
+    {
+      "term": "Solar Energetic Particle (SEP) Event",
+      "definition": "An SEP event occurs when the Sun releases highly energetic particles that travel through space. These particles can be dangerous to astronauts, affect satellites, and sometimes interfere with radio communication on Earth."
+    },
+    {
+      "term": "Geomagnetic Storm",
+      "definition": "A geomagnetic storm happens when Earth’s magnetic field is disturbed by solar flares or CMEs. These storms can create auroras, disrupt GPS signals, affect power grids, and sometimes interfere with communication satellites."
+    },
+    {
+      "term": "Aurora",
+      "definition": "Auroras, also called the Northern or Southern Lights, are colorful displays in the sky caused when solar particles collide with Earth’s atmosphere. They are most visible near the poles and can appear as green, red, or purple lights."
+    },
+    {
+      "term": "Sunspot",
+      "definition": "Sunspots are dark, cooler areas on the Sun’s surface with intense magnetic activity. They are often linked to solar flares and CMEs and appear as small dark patches when viewed with special instruments."
+    },
+    {
+      "term": "Corona",
+      "definition": "The corona is the Sun’s outermost layer, extending millions of kilometers into space. It is much hotter than the surface and is the source of solar wind and CMEs, visible as a glowing halo during solar eclipses."
+    },
+    {
+      "term": "Chromosphere",
+      "definition": "The chromosphere is a thin layer of the Sun’s atmosphere just above the visible surface. It appears reddish during solar eclipses and plays an important role in transferring energy to the corona and causing solar flares."
+    },
+    {
+      "term": "Photosphere",
+      "definition": "The photosphere is the visible surface of the Sun that emits the light and heat we receive on Earth. Sunspots appear on this layer, and it marks the boundary between the Sun’s interior and outer atmosphere."
+    },
+    {
+      "term": "Core",
+      "definition": "The core is the Sun’s central region where nuclear fusion occurs, converting hydrogen into helium and releasing enormous energy. This energy powers the Sun and provides the light and heat essential for life on Earth."
+    },
+    {
+      "term": "Magnetosphere",
+      "definition": "The magnetosphere is the area around Earth controlled by its magnetic field. It protects the planet from harmful solar wind and energetic particles, deflecting them and reducing their impact on life and technology."
+    },
+    {
+      "term": "X-class Flare",
+      "definition": "An X-class flare is the strongest type of solar flare. It releases massive energy that can cause disruptions in radio communications, satellites, and power systems on Earth, and sometimes create spectacular auroras."
+    },
+    {
+      "term": "Solar Cycle",
+      "definition": "The solar cycle is an approximately 11-year period in which the Sun’s activity rises and falls. During solar maximum, sunspots, solar flares, and CMEs increase, while during solar minimum, solar activity is calmer."
+    },
+    {
+      "term": "Space Weather",
+      "definition": "Space weather refers to the changing conditions in space caused by the Sun, such as solar flares, CMEs, and solar wind. These events can affect satellites, astronauts, power grids, and communications on Earth."
+    }
+  ]
+}
