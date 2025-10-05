@@ -2,63 +2,63 @@
   "glossary": [
     {
       "term": "Solar Flare",
-      "definition": "A solar flare is a sudden and powerful burst of light and energy from the Sun’s surface. It releases radiation that can travel to Earth and affect satellites, communications, and even power systems."
+      "definition": "A solar flare is a sudden and powerful burst of electromagnetic radiation from the Sun’s surface, caused by the release of magnetic energy stored in sunspots. Solar flares emit X-rays, ultraviolet light, and energetic particles, which can impact Earth’s ionosphere, disrupt radio communications, satellites, and GPS systems. Historically, strong flares have caused power grid failures, such as the Carrington Event of 1859."
     },
     {
       "term": "Coronal Mass Ejection (CME)",
-      "definition": "A CME is a huge cloud of charged particles and magnetic fields ejected from the Sun’s outer layer, the corona. When it reaches Earth, it can disturb the magnetic field and cause auroras or affect satellites and power grids."
+      "definition": "A CME is a massive eruption of plasma and magnetic field from the Sun’s corona, often associated with solar flares. CMEs can carry billions of tons of charged particles at high speeds, impacting Earth’s magnetosphere in 1–3 days. CMEs can trigger geomagnetic storms, auroras, and satellite damage. The largest recorded CME is the 1859 Carrington Event, which caused telegraph failures worldwide."
     },
     {
       "term": "Solar Wind",
-      "definition": "Solar wind is a constant stream of charged particles, mostly electrons and protons, flowing from the Sun into space. It interacts with Earth’s magnetic field and can produce auroras and minor disruptions in satellites and communication."
+      "definition": "Solar wind is a continuous flow of charged particles—mostly electrons and protons—emitted by the Sun. It shapes planetary magnetospheres, causes auroras, and interacts with Earth's magnetic field. Solar wind speed can vary from 300 to 800 km/s, and high-speed streams can enhance geomagnetic storms, affecting satellites and power systems."
     },
     {
       "term": "Solar Energetic Particle (SEP) Event",
-      "definition": "An SEP event occurs when the Sun releases highly energetic particles that travel through space. These particles can be dangerous to astronauts, affect satellites, and sometimes interfere with radio communication on Earth."
+      "definition": "An SEP event occurs when high-energy charged particles, accelerated by solar flares or CMEs, travel through space. These particles pose radiation hazards to astronauts and high-altitude flights, can damage satellites, and interfere with radio and GPS signals. Extreme SEP events can expose electronics to significant radiation damage."
     },
     {
       "term": "Geomagnetic Storm",
-      "definition": "A geomagnetic storm happens when Earth’s magnetic field is disturbed by solar flares or CMEs. These storms can create auroras, disrupt GPS signals, affect power grids, and sometimes interfere with communication satellites."
+      "definition": "A geomagnetic storm is a temporary disturbance of Earth's magnetic field caused by interactions with solar wind or CMEs. Effects include auroras, disruption of radio communications, navigation systems, and damage to power grids. Strong geomagnetic storms can produce currents in pipelines and interfere with satellite operations. The largest recorded storm, the Carrington Event (1859), illuminated skies as far south as the Caribbean."
     },
     {
       "term": "Aurora",
-      "definition": "Auroras, also called the Northern or Southern Lights, are colorful displays in the sky caused when solar particles collide with Earth’s atmosphere. They are most visible near the poles and can appear as green, red, or purple lights."
+      "definition": "Auroras are natural light displays seen in polar regions, caused by collisions between solar energetic particles and atmospheric gases. Electrons and protons excite oxygen and nitrogen atoms, producing vibrant green, red, pink, and purple lights. Auroras provide visual evidence of space weather and can affect radio signals during strong geomagnetic storms."
     },
     {
       "term": "Sunspot",
-      "definition": "Sunspots are dark, cooler areas on the Sun’s surface with intense magnetic activity. They are often linked to solar flares and CMEs and appear as small dark patches when viewed with special instruments."
+      "definition": "Sunspots are dark, cooler areas on the Sun’s photosphere with intense magnetic activity. They are indicators of solar activity and can last from days to weeks. Large sunspot groups often trigger solar flares and CMEs. Sunspot cycles, lasting approximately 11 years, help scientists predict solar maximum and minimum periods, which influence space weather."
     },
     {
       "term": "Corona",
-      "definition": "The corona is the Sun’s outermost layer, extending millions of kilometers into space. It is much hotter than the surface and is the source of solar wind and CMEs, visible as a glowing halo during solar eclipses."
+      "definition": "The corona is the Sun’s outermost atmosphere, extending millions of kilometers into space. Despite being less dense than the surface, it reaches temperatures of several million degrees Kelvin. The corona is the origin of solar wind and CMEs and appears as a white halo during total solar eclipses. Studying the corona helps scientists understand solar activity and space weather."
     },
     {
       "term": "Chromosphere",
-      "definition": "The chromosphere is a thin layer of the Sun’s atmosphere just above the visible surface. It appears reddish during solar eclipses and plays an important role in transferring energy to the corona and causing solar flares."
+      "definition": "The chromosphere is a thin, reddish layer of the Sun’s atmosphere above the photosphere. It plays a key role in transferring energy to the corona and is the site of spicules, prominences, and solar flares. During total solar eclipses, it appears as a red rim around the Sun. Its dynamic behavior helps scientists study magnetic activity and solar heating mechanisms."
     },
     {
       "term": "Photosphere",
-      "definition": "The photosphere is the visible surface of the Sun that emits the light and heat we receive on Earth. Sunspots appear on this layer, and it marks the boundary between the Sun’s interior and outer atmosphere."
+      "definition": "The photosphere is the Sun’s visible surface layer, with temperatures around 5,500°C. It emits most of the sunlight reaching Earth and displays granulation patterns from convection currents. Sunspots appear on the photosphere, marking areas of intense magnetic activity. The photosphere serves as a reference point for observing solar phenomena like flares and limb darkening."
     },
     {
       "term": "Core",
-      "definition": "The core is the Sun’s central region where nuclear fusion occurs, converting hydrogen into helium and releasing enormous energy. This energy powers the Sun and provides the light and heat essential for life on Earth."
+      "definition": "The core is the Sun’s innermost region where nuclear fusion converts hydrogen into helium, releasing vast energy in the form of light and heat. Temperatures reach 15 million°C and pressures are immense. Energy from the core takes thousands of years to reach the surface. This fusion process powers the Sun and sustains life on Earth by providing consistent light and heat."
     },
     {
       "term": "Magnetosphere",
-      "definition": "The magnetosphere is the area around Earth controlled by its magnetic field. It protects the planet from harmful solar wind and energetic particles, deflecting them and reducing their impact on life and technology."
+      "definition": "The magnetosphere is the region around Earth dominated by its magnetic field, protecting the planet from solar wind and cosmic radiation. It guides charged particles toward the poles, creating auroras. The magnetosphere also prevents atmospheric stripping and plays a crucial role in maintaining Earth’s habitability and safeguarding satellites from space weather events."
     },
     {
       "term": "X-class Flare",
-      "definition": "An X-class flare is the strongest type of solar flare. It releases massive energy that can cause disruptions in radio communications, satellites, and power systems on Earth, and sometimes create spectacular auroras."
+      "definition": "An X-class flare is the most intense type of solar flare, capable of releasing energy equivalent to billions of megatons of TNT. X-class flares can cause widespread radio blackouts, satellite malfunctions, GPS errors, and power grid disruptions. They often accompany strong CMEs and are closely monitored by space weather agencies to mitigate potential impacts on Earth."
     },
     {
       "term": "Solar Cycle",
-      "definition": "The solar cycle is an approximately 11-year period in which the Sun’s activity rises and falls. During solar maximum, sunspots, solar flares, and CMEs increase, while during solar minimum, solar activity is calmer."
+      "definition": "The solar cycle is an approximately 11-year cycle of fluctuating solar activity. During solar maximum, sunspots, solar flares, and CMEs peak, increasing space weather events. During solar minimum, solar activity is calm, with fewer sunspots. Understanding the solar cycle helps predict space weather, plan satellite operations, and assess risks to Earth’s technological systems."
     },
     {
       "term": "Space Weather",
-      "definition": "Space weather refers to the changing conditions in space caused by the Sun, such as solar flares, CMEs, and solar wind. These events can affect satellites, astronauts, power grids, and communications on Earth."
+      "definition": "Space weather describes changing conditions in space influenced by the Sun, including solar flares, CMEs, and solar wind. It can affect satellites, spacecraft, astronauts, power grids, and radio communications on Earth. Monitoring space weather helps mitigate risks to technology, maintain navigation systems, and protect critical infrastructure from solar-induced disruptions."
     }
   ]
 }
